@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    width: 80vh;
+    margin: 0 auto;
+    background-color: blanchedalmond;
+    height: 50px;
+}
+
+.collapse{
+    width: 200px;
+    height: 400px;
+    background-color: aqua;
+    color: black;
+}
+
+.on{
+   position: absolute;
+   top: 60px;
+   left: 5px;
+}
+
+.off{
+    display: none;
+}
